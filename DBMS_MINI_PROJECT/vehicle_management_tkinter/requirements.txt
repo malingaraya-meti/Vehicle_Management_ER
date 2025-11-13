@@ -1,0 +1,7 @@
+Tkinter==8.6
+mysql-connector-python==8.0.33
+Pillow==9.4.0
+numpy==1.23.5
+matplotlib==3.6.2
+asyncio==3.11.4
+```
